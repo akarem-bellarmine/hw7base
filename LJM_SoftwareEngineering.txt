@@ -1,0 +1,3 @@
+Software Engineering- Landon Murphy
+
+Software engineering is a disciplined approach to the design, production, and maintenance of computer programs. Its main purpose is to ensure that projects are developed on time and within cost estimates. The principles of software engineering help us decide how and when to distribute labor and responsibilities. The goals of software engineering are that the software works, its runtime adheres to constraints, it can be modified without excessive time and effort, it is reusable, and it is completed on time and within budget. Very often tradeoffs must be made in accuracy, efficiency, modifiability, reusability, and time constraints. 
